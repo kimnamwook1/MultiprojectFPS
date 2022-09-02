@@ -98,8 +98,4 @@ Plugins/**/Intermediate/*
 /Script
 /DerivedDataCache
 /Intermediate
-/Package
-
-/Content/StarterContent
-/Content/ThirdPersonBP
-/Content/ThirdPerson
+/Packages
